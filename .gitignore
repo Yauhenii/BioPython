@@ -1,0 +1,4 @@
+#gitignore
+#exclude checkpoints and DS_store
+**/.ipynb_checkpoints
+**/.DS_Store
